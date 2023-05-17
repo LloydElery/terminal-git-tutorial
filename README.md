@@ -17,10 +17,12 @@
     Initialized empty Git repository in C:/Users/Threefiddy/Desktop/terminal-git-tutorial/.git/
 13. >newFolder/ >> .gitignore 
     Jag använder mig av CMD främst för att min powershell inte riktigt fungerar som den ska och min erfarenhet med powershell = 0
-14. >add 
-15.
-16.
-17.
+14. >git add README.md 
+    >git add .gitignore
+15. >git status
+16. >git commit -m "README file for the repository"
+17. >
+    En git branch används för att skriva kod som vid ett senare tillfälle ska fogas samman med stammen, 'main'. Detta är särskilt bra när det är flera utvecklare som jobbar på samma projekt då de skapar en miljö (branch) som var och en kan jobba i utan att påverka varandras arbete eller stammen, main.
 18.
 27.
 28.
