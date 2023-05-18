@@ -23,7 +23,20 @@
 16. >git commit -m "README file for the repository"
 17. >
     En git branch används för att skriva kod som vid ett senare tillfälle ska fogas samman med stammen, 'main'. Detta är särskilt bra när det är flera utvecklare som jobbar på samma projekt då de skapar en miljö (branch) som var och en kan jobba i utan att påverka varandras arbete eller stammen, main.
-18.
+18. >git branch newBranch 
+    >git switch newBranch
+19. >echo newBranch.txt >> newBranch
+    >git add .
+    >git commit -m "New file to the newBranch"
+20. >git switch master 
+    Filen newbranch syns inte när jag kollar min directory.
+
+21. # README
+22. This is my first GitHub repository and I'm training the use of **Git** and *GitHub*.
+24. I'm also learning:
+- HTML
+- CSS
+- JavaScript
 27.
 28.
 29.
