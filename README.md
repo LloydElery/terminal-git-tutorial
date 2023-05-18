@@ -43,6 +43,7 @@
 27. >git remote add origin git@https://github.com/focusjuice/terminal-git-tutorial.git´
     >git remote -v
     För att se att min repo accepterades och var korrekt.
+    [Jag fastnade ordentligt här och spenderade en dag utan att egentligen förstå vad jag gjorde för fel. Det slutade med att jag gjorde samma sak som från början.]
 28. >rename *old name* *new name*
     Jag var dock tvungen att stänga ner mitt VSC då det störde processen.
 29.
