@@ -1,3 +1,4 @@
+# Terminal
 1. >dir     
     Använde jag för att kolla vad som fanns i mitt current directrory. Det var tomt...
 5. >dir     
@@ -37,7 +38,9 @@
 - HTML
 - CSS
 - JavaScript
-27.
+
+# GitHub
+27. >git remote add origin git@https://github.com/focusjuice/terminal-git-tutorial.git
 28.
 29.
 30.
